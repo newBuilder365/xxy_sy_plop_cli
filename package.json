@@ -1,0 +1,25 @@
+{
+  "name": "xxy_sy_template",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bin": {
+    "xxy_sy_template": "./bin/xxy_sy_template.js"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "commander": "^9.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.0",
+    "ora": "^5.4.1",
+    "plop": "^3.0.5",
+    "promisify": "0.0.3",
+    "rimraf": "^3.0.2"
+  }
+}
