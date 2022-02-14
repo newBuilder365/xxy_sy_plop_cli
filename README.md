@@ -2,8 +2,8 @@
 ###安装命令
 
 ```shell
-npm i xxy_sy_template
-```
+npm i plop xxy_sy_template -g
+```plop
 
 ###使用
 
